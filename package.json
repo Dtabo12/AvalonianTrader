@@ -1,0 +1,23 @@
+{
+  "name": "avaloniantrader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtabo12/AvalonianTrader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtabo12/AvalonianTrader/issues"
+  },
+  "homepage": "https://github.com/Dtabo12/AvalonianTrader#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
